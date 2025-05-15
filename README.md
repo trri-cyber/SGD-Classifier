@@ -53,7 +53,6 @@ print(con)
 ## Output:
 ![image](https://github.com/user-attachments/assets/f7b8c801-0a62-4dd6-9613-aa7db2ee0326)
 
-![prediction of iris species using SGD Classifier](sam.png)
 
 
 ## Result:
